@@ -1,0 +1,1 @@
+SELECT * FROM etudiants LIMIT T OFFSET offset;
